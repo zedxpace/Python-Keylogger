@@ -8,7 +8,7 @@
         it will just append the logs rather then overwriting them 
 - Before running the code make sure that you have all the modules installed in your system.
 - ABout Keylogger :
-
+- please store the keylogs.txt in same directory as code where all the keylogs will saved
 - you just need to start the keylogger once you started it will automatically capture each and every stroke so ,
 even it is mozilla or chrome or any other application.
                                                        -ZED
