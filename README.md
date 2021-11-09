@@ -1,6 +1,6 @@
 # BlackHatPython-Keylogger
 
-## Code is explained in the following link : https://codexpace.blogspot.com/2021/11/python-keylogger.html
+## Code is explained in the following link : https://www.codexpace.ml/2021/11/python-keylogger.html
 
 [python -3.7]
 - You just have to run the code and keep in mind the file named keylogs 
