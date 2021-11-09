@@ -1,4 +1,4 @@
-##Find the explanation of the code in following link : https://codexpace.blogspot.com/2021/11/python-keylogger.html
+##Find the explanation of the code in following link : https://www.codexpace.ml/2021/11/python-keylogger.html
 from ctypes import *
 import pythoncom
 import pyHook
