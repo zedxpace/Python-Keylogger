@@ -1,6 +1,9 @@
 # BlackHatPython-Keylogger
+<h2>Documentation</h2>
+<div align="center">
+<a href="https://www.codexpace.ml/2021/11/python-keylogger.html" title="Go to project documentation"><img src="https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge" alt="view - Documentation"></a>
 
-## Code is explained in the following link : https://www.codexpace.ml/2021/11/python-keylogger.html
+</div>
 
 [python -3.7]
 - You just have to run the code and keep in mind the file named keylogs 
